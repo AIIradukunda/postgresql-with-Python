@@ -1,4 +1,4 @@
-# postgresql-with-Python
+# postgresql with Python
 
 # Libraries used:
 
